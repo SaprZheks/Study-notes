@@ -5,7 +5,7 @@
 
    `git clone https://github.com/SaprZheks/Study-notes.git`
 
-![1]("./README Images/1.png")
+![1]("./README\ Images/1.png")
 
 ![2](./README Images/2.png)
 
