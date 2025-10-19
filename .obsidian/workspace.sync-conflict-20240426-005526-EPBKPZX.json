@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "6b1abbdfdc89f10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "861b43889621015d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b88d00941dad1990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СНАР/Формулы для датчиков телефона.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "290c8d09eea68a54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СНАР/Формулы для датчиков телефона.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1dde6cb9a6398bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СНАР/Формулы для датчиков телефона.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "556157f1f0abcdd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Вопрос про вращающийся поворотный винт.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78988446cbef24e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35b7862acf291a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2665a1f1d300eb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "71f93a224e6580e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95d493cf79df6f21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.50943756103516
+  },
+  "right": {
+    "id": "fb1a43c8b92ca296",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdc2fa95de40af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb57153f157f067",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Физика/Механика/Вопрос про вращающийся поворотный винт.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e65a8cd0db99759",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Физика/Механика/Вопрос про вращающийся поворотный винт.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ed2d258c09f018d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "6e60c3d4c30cfd39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Физика/Механика/Вопрос про вращающийся поворотный винт.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b2665a1f1d300eb3",
+  "lastOpenFiles": [
+    "СНАР/Без названия.md",
+    "СНАР/Формулы для датчиков телефона.md",
+    "ТФКП/Теорема 12.1.md",
+    "ТАУ/Source/Pasted image 20240130203045.png",
+    "ТАУ/Source/Screenshot_20240229-111227_Диск.png",
+    "ТАУ/Source/Screenshot_20240218-013047_Диск.png",
+    "ТАУ/Source/Pasted image 20240221222330.png",
+    "ТФКП/Лемма 13.4.md",
+    "ТФКП/Доказательство теоремы об обратной функции.md",
+    "ТФКП/Доказательство 2-х неравенств с действительной и мнимой частями от f(z) и еще 1й фигни, пока не понял, что это такое.md",
+    "ТФКП/Определение 9.3.md",
+    "ТФКП/Теорема 10.3 (О стирании разреза).md",
+    "ТФКП/Теорема 8.3.md",
+    "ТФКП/Source/Pasted image 20240113152803.png",
+    "ТФКП/Source/Pasted image 20240127080929.png",
+    "ТФКП/Source/Pasted image 20240327100101.png",
+    "ТФКП/Source/Pasted image 20240127085206.png",
+    "ТФКП/Source/Pasted image 20240113143207.png",
+    "ТФКП/Теорема 6.3.md",
+    "ТФКП/Теорема 14.1.md",
+    "ТФКП/Пример 10.1.md",
+    "ТФКП/Теорема 10.2 (Морера).md",
+    "Физика/Электромашины/Source/Брускин Электрические машины и микромашины.pdf",
+    "ТАУ/Source/Воронов ТАУ Ч1.pdf",
+    "Физика/Электромашины/Source/~syncthing~Брускин Электрические машины и микромашины.pdf.tmp",
+    "ТАУ/Source/~syncthing~Воронов ТАУ Ч1.pdf.tmp",
+    "ТФКП/Source/ТФКП Половинкин 2023.pdf",
+    "ТФКП/Source/~syncthing~ТФКП Половинкин 2023.pdf.tmp",
+    "ТАУ/Source/Ким ТАУ Часть_1.pdf",
+    "ТАУ/Source/~syncthing~Ким ТАУ Часть_1.pdf.tmp",
+    "ТФКП/Source/Pasted image 20240113143215.png",
+    "ТФКП/Пример 12.5.md",
+    "ТФКП/Упражнения 12.1 - 12.3.md",
+    "ТФКП/Определение 13.1.md",
+    "ТФКП/Лемма 13.2.md",
+    "ТФКП/Лемма 13.3.md",
+    "ТФКП/13.2 Вычисление интегралов вида.md",
+    "ТФКП/Лемма 3.5 (Жордан).md",
+    "ТАУ/Ошибка в установившемся режиме Ким.md",
+    "ТАУ/Вывод формулы 4.18 (про коэффициенты ошибок) Ким.md",
+    "ТФКП/Теорема 14.1 (2).md",
+    "ТФКП/Без названия.md",
+    "ТФКП/Лемма 13.1.md",
+    "ТФКП/Пример 13.1.md",
+    "СНАР",
+    "ТАУ/~syncthing~Без названия.md.tmp",
+    "Без названия.canvas"
+  ]
+}

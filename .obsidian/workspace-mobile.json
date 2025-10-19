@@ -1,0 +1,1376 @@
+{
+  "main": {
+    "id": "08553d7748eb25fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "64e6556c68a95cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e8c81acce79f962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СНАР/Формулы для датчиков телефона.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Формулы для датчиков телефона"
+            }
+          },
+          {
+            "id": "19aadbb5e5853c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Вопрос про вращающийся поворотный винт.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вопрос про вращающийся поворотный винт"
+            }
+          },
+          {
+            "id": "7a93ad82a9e598fc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "b0713e2a8c4ffeb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Пример с рычажным подъемом шаров Г. 4 § 2.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пример с рычажным подъемом шаров Г. 4 § 2"
+            }
+          },
+          {
+            "id": "29e5b3695e091e80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Наклонная плоскость и поиск массы груза. Стевин Г. 4 § 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Наклонная плоскость и поиск массы груза. Стевин Г. 4 § 2"
+            }
+          },
+          {
+            "id": "f07222d493b7beaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Формула вероятности для размера ядра Г.6 § 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Формула вероятности для размера ядра Г.6 § 1"
+            }
+          },
+          {
+            "id": "1188800b96cb3778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Период полураспада формула Г. 5 § 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Период полураспада формула Г. 5 § 4"
+            }
+          },
+          {
+            "id": "834fe0b2cf3576bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Почему вероятность пропорциональна промежутку Г. 6 § 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Почему вероятность пропорциональна промежутку Г. 6 § 4"
+            }
+          },
+          {
+            "id": "136ae97d4754f2e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Нормальное ли распределение Г. 6 § 2.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Нормальное ли распределение Г. 6 § 2"
+            }
+          },
+          {
+            "id": "855bb2dfb7700acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Производная многочлена Г. 8 § 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Производная многочлена Г. 8 § 3"
+            }
+          },
+          {
+            "id": "cd64db3b5d779337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Численное решение уравнения  Г. 9 § 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Численное решение уравнения  Г. 9 § 5"
+            }
+          },
+          {
+            "id": "b9d04a00f4553c33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Доказательство работы законов физики при переносе начала координат Г. 11 § 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Доказательство работы законов физики при переносе начала координат Г. 11 § 2"
+            }
+          },
+          {
+            "id": "4e92459fedd20b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Закон Гука Г. 12 § 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Закон Гука Г. 12 § 3"
+            }
+          },
+          {
+            "id": "d5904ab40b87884a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Почему плоскость границы жидкости перпендикулярна силе, действующей на жидкость Г. 12 § 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Почему плоскость границы жидкости перпендикулярна силе, действующей на жидкость Г. 12 § 5"
+            }
+          },
+          {
+            "id": "f12c6ff7ffb30064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Движение по рампе только за счет силы тяжести, а также столкновение частиц Г. 13 § 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Движение по рампе только за счет силы тяжести, а также столкновение частиц Г. 13 § 1"
+            }
+          },
+          {
+            "id": "8d95be29476fc26e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Изменение кинетической энергии при криволинейном движении Г. 13 § 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Изменение кинетической энергии при криволинейном движении Г. 13 § 1"
+            }
+          },
+          {
+            "id": "25e051409f303422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Применение закона сохранения энергии для нахождения скорости вращения планеты произвольно выбранной орбите Г. 13 § 2.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Применение закона сохранения энергии для нахождения скорости вращения планеты произвольно выбранной орбите Г. 13 § 2"
+            }
+          },
+          {
+            "id": "246267926d3a5ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Опечатки в формулах с дифференцированием расстояния и потенциальной энергии Г. 13 § 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатки в формулах с дифференцированием расстояния и потенциальной энергии Г. 13 § 3"
+            }
+          },
+          {
+            "id": "a96c831fde64ce3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Выражение для потенциальной энергии системы притягивающихся тел Г. 13 § 3.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Выражение для потенциальной энергии системы притягивающихся тел Г. 13 § 3"
+            }
+          },
+          {
+            "id": "9529a3cf788b7975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Опечатки в выводе потенциальной энергии Земли Г. 13 § 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатки в выводе потенциальной энергии Земли Г. 13 § 4"
+            }
+          },
+          {
+            "id": "14635acb7a4d68f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Почему потенциальная энергия гравитации отрицательна Г. 13 § 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Почему потенциальная энергия гравитации отрицательна Г. 13 § 4"
+            }
+          },
+          {
+            "id": "ce601fa03c92d6f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Уточнение про потенциальную энергию гравитации Г. 14 § 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Уточнение про потенциальную энергию гравитации Г. 14 § 5"
+            }
+          },
+          {
+            "id": "068d6781c76a8896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Вывод формулы нарушения одновременности удаленных событий Г. 15 § 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вывод формулы нарушения одновременности удаленных событий Г. 15 § 6"
+            }
+          },
+          {
+            "id": "456989eab4bdc46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Условия равновесия твердого тела Г. 18 § 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Условия равновесия твердого тела Г. 18 § 2"
+            }
+          },
+          {
+            "id": "0955d15c263a5d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Опечатка про вращение вокруг солнца и момент импульса Г. 18 § 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатка про вращение вокруг солнца и момент импульса Г. 18 § 3"
+            }
+          },
+          {
+            "id": "8e8084f768c9627b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Опечатка в указании расстояния центра масс от оси вращения Г. 19 § 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатка в указании расстояния центра масс от оси вращения Г. 19 § 1"
+            }
+          },
+          {
+            "id": "210e7359dd0a0398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Опечатка в формуле с моментом инерции Г. 19 § 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатка в формуле с моментом инерции Г. 19 § 3"
+            }
+          },
+          {
+            "id": "bfceab1c97d61708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Ошибка перевода про момент сил Г. 20 § 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ошибка перевода про момент сил Г. 20 § 4"
+            }
+          },
+          {
+            "id": "f8806f7364b53bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Переход от десятичного к натуральному логарифму Г. 22 § 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переход от десятичного к натуральному логарифму Г. 22 § 4"
+            }
+          },
+          {
+            "id": "dff799d106c00462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Поиск мнимого логарифма Г. 22 § 5.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поиск мнимого логарифма Г. 22 § 5"
+            }
+          },
+          {
+            "id": "afd81c42eff16834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Переход от дифференциального уравнения к комплексному линейному Г. 23 § 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переход от дифференциального уравнения к комплексному линейному Г. 23 § 1"
+            }
+          },
+          {
+            "id": "2dd4625c71bc49c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Ошибка в выводе уравнения для электрических колебаний цепи Г. 23 § 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ошибка в выводе уравнения для электрических колебаний цепи Г. 23 § 3"
+            }
+          },
+          {
+            "id": "3f23420965766dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Пояснение к выводу средней мощности Г. 24 § 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пояснение к выводу средней мощности Г. 24 § 1"
+            }
+          },
+          {
+            "id": "a247e02de8a1c9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Перемещение объекта из одного состояния покоя в другое без работы, а при вращении есть работа Г. 19 § 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Перемещение объекта из одного состояния покоя в другое без работы, а при вращении есть работа Г. 19 § 4"
+            }
+          },
+          {
+            "id": "a040368fe588b5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Почему в равновесии прямые, проведённые через 3 силы пересекаются в 1-й точке § 72.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Почему в равновесии прямые, проведённые через 3 силы пересекаются в 1-й точке § 72"
+            }
+          },
+          {
+            "id": "672e8fd96001f34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Ускорения нет без сил, как же тело может свободно вращаться § 77.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ускорения нет без сил, как же тело может свободно вращаться § 77"
+            }
+          },
+          {
+            "id": "64f0e6b0489e2644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Уравновешивание трех параллельных сил § 80.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Уравновешивание трех параллельных сил § 80"
+            }
+          },
+          {
+            "id": "0b75cbf0a9a4a1f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Почему в равновесии прямые, проведённые через 3 силы пересекаются в 1-й точке § 72.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Почему в равновесии прямые, проведённые через 3 силы пересекаются в 1-й точке § 72"
+            }
+          },
+          {
+            "id": "720f146b73146258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Нюанс с параллельными силами § 81.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Нюанс с параллельными силами § 81"
+            }
+          },
+          {
+            "id": "399e1d092b350cf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Полиспаст и дифференциальный блок § 84.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Полиспаст и дифференциальный блок § 84"
+            }
+          },
+          {
+            "id": "f19d8b99bc7c1742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Объяснение рычага через кинематику и динамику.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Объяснение рычага через кинематику и динамику"
+            }
+          },
+          {
+            "id": "8dbe25083eeb17ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Полиспаст и дифференциальный блок § 84.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Полиспаст и дифференциальный блок § 84"
+            }
+          },
+          {
+            "id": "e5986a898b6279d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Опечатка Ландсберг § 93.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатка Ландсберг § 93"
+            }
+          },
+          {
+            "id": "7b26aa16597786b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Работа при человеческой ходьбе § 93.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Работа при человеческой ходьбе § 93"
+            }
+          },
+          {
+            "id": "4c3bfa05d97bbd5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Про относительность кинетической энергии § 99.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Про относительность кинетической энергии § 99"
+            }
+          },
+          {
+            "id": "21a2960a500ae701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Про абсолютную упругость столкновения § 102.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Про абсолютную упругость столкновения § 102"
+            }
+          },
+          {
+            "id": "1df41c0148935f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Почему траектория орбит эллиптическая, круговая или гиперболическая.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Почему траектория орбит эллиптическая, круговая или гиперболическая"
+            }
+          },
+          {
+            "id": "30b8c2e93be07463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Вторая космическая скорость.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Вторая космическая скорость"
+            }
+          },
+          {
+            "id": "4422b25cd9a13585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Как движется тело в неинерциальной системе отсчета после пережигания нити. Сила инерции § 128.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Как движется тело в неинерциальной системе отсчета после пережигания нити. Сила инерции § 128"
+            }
+          },
+          {
+            "id": "032a5666128be1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Кориолисова сила § 135.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Кориолисова сила § 135"
+            }
+          },
+          {
+            "id": "7ae4abde6ce193d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Приливы § 137.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Приливы § 137"
+            }
+          },
+          {
+            "id": "3fd2249e1e185250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Чайник и уровень воды § 153.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Чайник и уровень воды § 153"
+            }
+          },
+          {
+            "id": "4a11b3634cc522fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Давление в кране водопровода § 153.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Давление в кране водопровода § 153"
+            }
+          },
+          {
+            "id": "f5c61ca9ac8a95a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Сифон § 156.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Сифон § 156"
+            }
+          },
+          {
+            "id": "25be69291c7167a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Измерение коэффициента объемного расширения жидкостей § 200.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Измерение коэффициента объемного расширения жидкостей § 200"
+            }
+          },
+          {
+            "id": "dbc249b9834c3200",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Опечатка в формуле коэффициента объемного расширения § 199.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатка в формуле коэффициента объемного расширения § 199"
+            }
+          },
+          {
+            "id": "e1ef93b4fd0f0698",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Опечатка в формуле коэффициента объемного расширения § 199.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Опечатка в формуле коэффициента объемного расширения § 199"
+            }
+          },
+          {
+            "id": "d8850a4e9e4260ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Начальное расхождение в давлении в законе Бойля-Мариотта § 230.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Начальное расхождение в давлении в законе Бойля-Мариотта § 230"
+            }
+          },
+          {
+            "id": "4809ee2c7d12e477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Равенство теплоёмкостей при одинаковом процессе для различных одноатомных газов § 246.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Равенство теплоёмкостей при одинаковом процессе для различных одноатомных газов § 246"
+            }
+          },
+          {
+            "id": "eac55625785a0ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Поверхностная энергия и натяжение § 248.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Поверхностная энергия и натяжение § 248"
+            }
+          },
+          {
+            "id": "ed2373f84b3cbb4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Про энергию раствора и его компонентов по отдельности и про таяние льда с солью § 275.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Про энергию раствора и его компонентов по отдельности и про таяние льда с солью § 275"
+            }
+          },
+          {
+            "id": "11cef0fc5385b812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Про энергию раствора и его компонентов по отдельности и про таяние льда с солью § 275.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Про энергию раствора и его компонентов по отдельности и про таяние льда с солью § 275"
+            }
+          },
+          {
+            "id": "2fdf7bd2361b2b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Влияние температуры на давление насыщенного пара § 293.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Влияние температуры на давление насыщенного пара § 293"
+            }
+          },
+          {
+            "id": "67e241089912f173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Термодинамика и Молекулярная физика/Поверхностная энергия и натяжение § 248.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Поверхностная энергия и натяжение § 248"
+            }
+          },
+          {
+            "id": "8f1f928ee869545b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Переход от ряда Тейлора в преобразованиях Лапласа к оригиналам Воронов.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Переход от ряда Тейлора в преобразованиях Лапласа к оригиналам Воронов"
+            }
+          },
+          {
+            "id": "83bd62c32259c8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Корневые показатели качества Ким.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корневые показатели качества Ким"
+            }
+          },
+          {
+            "id": "89d10ade4f6f1b13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Вынужденная составляющая решения.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вынужденная составляющая решения"
+            }
+          },
+          {
+            "id": "e0ef94ce7a94133f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Ошибка при разных местах приложения возмущений Ким.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ошибка при разных местах приложения возмущений Ким"
+            }
+          },
+          {
+            "id": "910acd88c17cb240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Пример расчёта интегральной ошибки Ким.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пример расчёта интегральной ошибки Ким"
+            }
+          },
+          {
+            "id": "e73d3c2b4da97349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Корневые показатели качества Ким.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Корневые показатели качества Ким"
+            }
+          },
+          {
+            "id": "df3b03c156d061ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Вынужденная составляющая решения.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вынужденная составляющая решения"
+            }
+          },
+          {
+            "id": "6181c599e91b6de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Вынужденная составляющая решения.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вынужденная составляющая решения"
+            },
+            "group": "494b40c0778fe743"
+          },
+          {
+            "id": "2d9538118fa306ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Ошибка в установившемся режиме Ким.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ошибка в установившемся режиме Ким"
+            }
+          },
+          {
+            "id": "b4fbbf54b8a505af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СНАР/Формулы для датчиков телефона.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Формулы для датчиков телефона"
+            }
+          }
+        ],
+        "currentTab": 63
+      },
+      {
+        "id": "94574f4bd6fa85d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99edc8ba15cf1c1d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "ТАУ/Вынужденная составляющая решения.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.348652530370194,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            },
+            "group": "494b40c0778fe743"
+          }
+        ]
+      },
+      {
+        "id": "c99f39e20569eb2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3cc08f593285662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Интегральная квадратическая ошибка Ким.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интегральная квадратическая ошибка Ким"
+            }
+          },
+          {
+            "id": "e0ea99178816e63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТАУ/Ошибка при разных местах приложения возмущений Ким.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ошибка при разных местах приложения возмущений Ким"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cc947fc3d8d83c8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ba6373284e002f6a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "667119ae6272903a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "5ce592fdf0bd5501",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "70d78c4711a9606d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1a15b202c984f2b1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "327f732461a7f530",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Физика/Термодинамика и Молекулярная физика/Поверхностная энергия и натяжение § 248.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "1d9061b47a18b768",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Физика/Механика/Опечатка в Г. 20 § 1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "9e4c9a1aaf235dbb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Физика/Механика/Опечатка в Г. 20 § 1.md"
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "67e241089912f173",
+  "lastOpenFiles": [
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250923-155343_Obsidian.png",
+    "Книги/Физика/Ландсберг/Ландсберг Элементарный учебник физики. Том 1. Механика Теплота Молекулярная Физика.pdf",
+    "Физика/Термодинамика и Молекулярная физика/Образование пузырьков насыщенного пара при кипении воды § 299.md",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250921-030404_Obsidian.png",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250922-033117_Obsidian.png",
+    "Физика/Термодинамика и Молекулярная физика/Влияние температуры на давление насыщенного пара § 293.md",
+    "Физика/Термодинамика и Молекулярная физика/Про энергию раствора и его компонентов по отдельности и про таяние льда с солью § 275.md",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250917-015203_Obsidian.png",
+    "Физика/Термодинамика и Молекулярная физика/Про деформацию сдвига на параллелепипеде § 281.md",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250915-221335_Obsidian.png",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250915-213554_Obsidian.png",
+    "Физика/Термодинамика и Молекулярная физика/Поверхностная энергия и натяжение § 248.md",
+    "Книги/Физика/Ландсберг/Ландсберг Элементарный учебник физики. Том 3. Колебания и волны Оптика Атомная и ядерная физика.pdf",
+    "Книги/Физика/Ландсберг/Ландсберг Элементарный учебник физики. Том 2. Электричество и магнетизм.pdf",
+    "Физика/Механика/Эффект Вентури § 182.md",
+    "Физика/Термодинамика и Молекулярная физика/Про круглую каплю одной жидкости в другой жидкости § 248.md",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250823-163513_Obsidian.png",
+    "Физика/Термодинамика и Молекулярная физика/Равенство теплоёмкостей при одинаковом процессе для различных одноатомных газов § 246.md",
+    "Физика/Books/Ландсберг/Ландсберг Элементарный учебник физики. Том 1. Механика Теплота Молекулярная Физика.pdf",
+    "Физика/Термодинамика и Молекулярная физика/Опечатка при выводе связи кинетической энергии молекулы и температуры газа § 243.md",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250820-092009_Диск.png",
+    "Физика/Термодинамика и Молекулярная физика/Начальное расхождение в давлении в законе Бойля-Мариотта § 230.md",
+    "ТФКП/Следствие 15.2.md",
+    "ТФКП/Пример 12.4.md",
+    "Физика/Термодинамика и Молекулярная физика/Source/Screenshot_20250816-060338_Obsidian~2.png",
+    "Физика/Термодинамика и Молекулярная физика/Опечатка в формуле коэффициента объемного расширения § 199.md",
+    "Физика/Механика/Books/Ландсберг Элементарный учебник физики. Том 1. Механика Теплота Молекулярная Физика.pdf",
+    "Физика/Механика/Слипание свинцовых брусков § 220.md",
+    "Физика/Механика/Source/Screenshot_20250814-052202_Obsidian.png",
+    "Физика/Механика/Опечатка в формуле коэффициента объемного расширения § 199.md",
+    "Физика/Механика/Закон кратных отношений § 213.md",
+    "Физика/Механика/Сегнерово колесо § 184.md",
+    "Физика/Механика/Измерение коэффициента объемного расширения жидкостей § 200.md",
+    "Физика/Механика/Source/Screenshot_20250813-031241_Obsidian.png",
+    "Физика/Механика/Закон Гука Г. 12 § 3.md",
+    "Физика/Механика/Падение выталкивающей силы воздушного шара с набором высоты § 178.md",
+    "Физика/Механика/Измерение погружаемым манометром давления неподвижной жидкости § 180.md",
+    "Физика/Механика/Подъемная сила воздушного шара § 178.md",
+    "Физика/Механика/Взвешивание воздуха § 168.md",
+    "Физика/Механика/Подъемная сила воздушных шаров на водороде и гелии § 178.md",
+    "Физика/Механика/Почему сила Архимеда давит вверх, если жидкость сверху.md",
+    "Физика/Механика/Books/The Feynman Lectures on Physics - VOL1.pdf",
+    "Физика/Механика/Books/Феймановские лекции по физике. Том 1.pdf",
+    "ТФКП/Books/ТФКП Половинкин 2023.pdf",
+    "Физика/Механика/Books/Кириченко. Механика.pdf",
+    "Физика/Механика/Source/Physics Guck Law.pdf",
+    "Без названия.canvas"
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "6b1abbdfdc89f10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5074ae0de4893d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d6831818c0a67a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Вывод формулы нарушения одновременности удаленных событий Г. 15 § 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вывод формулы нарушения одновременности удаленных событий Г. 15 § 6"
+            }
+          },
+          {
+            "id": "ef14f53b7246332f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Физика/Механика/Books/Феймановские лекции по физике. Том 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Феймановские лекции по физике. Том 1"
+            }
+          },
+          {
+            "id": "3feaebd2429468f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Физика/Механика/Books/The Feynman Lectures on Physics - VOL1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Feynman Lectures on Physics - VOL1"
+            }
+          },
+          {
+            "id": "0a13fb20b452d53d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Физика/Механика/Books/Феймановские лекции по физике. Том 1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Феймановские лекции по физике. Том 1"
+            }
+          },
+          {
+            "id": "20fe4920410de863",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Физика/Механика/Вывод формулы нарушения одновременности удаленных событий Г. 15 § 6.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вывод формулы нарушения одновременности удаленных событий Г. 15 § 6"
+            }
+          },
+          {
+            "id": "b124407f343f8ee4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78988446cbef24e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35b7862acf291a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2665a1f1d300eb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "71f93a224e6580e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "95d493cf79df6f21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 230.50943756103516
+  },
+  "right": {
+    "id": "fb1a43c8b92ca296",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdc2fa95de40af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb57153f157f067",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "4e65a8cd0db99759",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "ed2d258c09f018d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "6e60c3d4c30cfd39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Физика/Механика/Без названия.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b2665a1f1d300eb3",
+  "lastOpenFiles": [
+    "Физика/Механика/Вывод формулы нарушения одновременности удаленных событий Г. 15 § 6.md",
+    "Физика/Механика/Без названия.md",
+    "Физика/Механика/Опечатка – большая буква в обозначении массы Г. 16 § 4.md",
+    "Физика/Механика/Source/Pasted image 20241007041746.png",
+    "Физика/Механика/Source/Pasted image 20241007041740.png",
+    "Физика/Механика/Source/Pasted image 20241007041732.png",
+    "Физика/Механика/Books/The Feynman Lectures on Physics - VOL1.pdf",
+    "Физика/Механика/Books/Феймановские лекции по физике. Том 1.pdf",
+    "Физика/Механика/Рост массы покоя после остановки 2-х тел в результате их  неупругого соударения Г. 16 § 4.md",
+    "Физика/Механика/Про импульс при неупругом соударении тел Г. 16 § 4.md",
+    "Физика/Механика/Упражнение про массу на скорости Г. 16 § 4.md",
+    "Физика/Механика/Source/Pasted image 20241007035834.png",
+    "Физика/Механика/Source/Pasted image 20241007035431.png",
+    "Физика/Механика/Релятивистское упругое столкновение частиц Г. 16 § 4.md",
+    "Физика/Механика/Source/Pasted image 20241007035033.png",
+    "Физика/Механика/Source/Pasted image 20241007032820.png",
+    "Физика/Механика/Source/Pasted image 20241007031114.png",
+    "Физика/Механика/Source/Pasted image 20241007031106.png",
+    "Физика/Механика/Source/Pasted image 20241007031039.png",
+    "Физика/Механика/Одновременность в разных системах отсчета Г. 16 § 3.md",
+    "Физика/Механика/Опечатка в индексе времени Г. 15 § 4.md",
+    "Физика/Механика/Опечатка – ссылка на бесполезное уравнение Г. 16 § 3.md",
+    "Физика/Механика/Обозначение скорости Г. 16 § 3.md",
+    "Физика/Механика/Вывод скорости в перпендикулярном движению ракеты направлении Г. 16 § 3.md",
+    "Физика/Механика/Опечатка в переводах единиц Г. 15 § 8.md",
+    "Физика/Механика/Сравнение меток, оставленных пролетающими навстречу друг другу кораблями Г. 15 § 4.md",
+    "Физика/Механика/Почему потенциальная энергия гравитации отрицательна Г. 13 § 4.md",
+    "Физика/Механика/Поиск сил по потенциальной энергии Г. 14 § 5.md",
+    "ТФКП/Разложение в ряд пересекающихся областях.md",
+    "Физика/Механика/Опечатки в выводе потенциальной энергии Земли Г. 13 § 4.md",
+    "Физика/Механика/Применение закона сохранения энергии для нахождения скорости вращения планеты произвольно выбранной орбите Г. 13 § 2.md",
+    "Физика/Механика/Опечатки в формулах с дифференцированием расстояния и потенциальной энергии Г. 13 § 3.md",
+    "Физика/Механика/Выражение для потенциальной энергии системы притягивающихся тел Г. 13 § 3.md",
+    "Физика/Механика/~syncthing~b2eabf6003239bc8262d750e6fdb857d5d13113ffb1da131911918e7d9d986f5.tmp",
+    "Физика/Механика/Source/~syncthing~Screenshot_20241001-040450_Obsidian.png.tmp",
+    "Физика/Механика/Source/~syncthing~Screenshot_20241001-042721_Obsidian.png.tmp",
+    "Физика/Механика/~syncthing~Выражение для потенциальной энергии системы притягивающихся тел Г. 13 § 3.md.tmp",
+    "Физика/Механика/~syncthing~8da96fc28e385efef3549a204ccf5b7b9df7d17dfb0416c3a426cb337c02ddb4.tmp",
+    "Физика/Механика/Source/~syncthing~Screenshot_20241001-040943_Obsidian.png.tmp",
+    "Физика/Механика/Source/~syncthing~Screenshot_20241001-042124_Диск.png.tmp",
+    "Физика/Механика/Source/~syncthing~Screenshot_20241001-035627_Obsidian.png.tmp",
+    "Физика/Механика/Опечатка в формуле с энергией Г. 13 § 2.md",
+    "Физика/Механика/Движение по рампе только за счет силы тяжести, а также столкновение частиц Г. 13 § 1.md",
+    "Физика/Механика/Изменение кинетической энергии при криволинейном движении Г. 13 § 1.md",
+    "Физика/Механика/Опечатка в формуле электрической силы взаимодействия частиц Г. 12 § 4.md",
+    "Физика/Механика/Почему высота пропорциональна скорости Г. 13 § 1.md",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "6b1abbdfdc89f10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "861b43889621015d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "745c8a6c931a2b23",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ТФКП/Source/ТФКП Половинкин 2023.pdf"
+              }
+            }
+          },
+          {
+            "id": "a081c9501421598a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СНАР/Jetbot Мозги.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78988446cbef24e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b35b7862acf291a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2665a1f1d300eb3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "71f93a224e6580e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Predict",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "95d493cf79df6f21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fb1a43c8b92ca296",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdc2fa95de40af2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb57153f157f067",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "СНАР/Jetbot Мозги.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e65a8cd0db99759",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "СНАР/Jetbot Мозги.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ed2d258c09f018d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "6e60c3d4c30cfd39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "СНАР/Jetbot Мозги.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "floating": {
+    "id": "3c1cc96db80d8446",
+    "type": "floating",
+    "children": [
+      {
+        "id": "653f79cbbacdff4d",
+        "type": "window",
+        "children": [
+          {
+            "id": "58937f5b42e73829",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "425738e8f09eb344",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "СНАР/Jetbot Мозги.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -417,
+        "y": -430,
+        "width": 853,
+        "height": 685,
+        "maximize": true,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "a081c9501421598a",
+  "lastOpenFiles": [
+    "СНАР/Jetbot Мозги.md",
+    "СНАР/Source/Robot_control_algorithm.png",
+    "СНАР/Четырехмерный фильтр Калмана GPS.md",
+    "СНАР/Source/forward_move.png",
+    "СНАР/Source/zone_of_nonsens.png",
+    "СНАР/Source/s(R).png",
+    "СНАР/Source/~syncthing~zone_of_nonsens.png.tmp",
+    "СНАР/Source/~syncthing~s(R).png.tmp",
+    "СНАР/~syncthing~Jetbot Мозги.md.tmp",
+    "СНАР/Source/~syncthing~forward_move.png.tmp",
+    "СНАР/Формулы для датчиков телефона.md",
+    "ТФКП/Следствие 15.2.md",
+    "ТФКП/Лемма 16.2.md",
+    "ТФКП/Source/ТФКП Половинкин 2023.pdf",
+    "ТФКП/Теорема 6.3.md",
+    "ТФКП/интеграл.md",
+    "ТФКП/Замечание 6.1.md",
+    "ТФКП/Какой-то пример из 2-го параграфа учебника Горяйнова и Половинкина.md",
+    "ТФКП/Лемма 3.5 (Жордан).md",
+    "ТФКП/Пример 13.1.md",
+    "ТФКП/Определение 9.3.md",
+    "ТФКП/Теорема 14.3 (УСТОЙЧИВОСТЬ ПРИ НЕПРЕРЫВНОЙ ДЕФОРМАЦИИ).md",
+    "ТАУ/Вывод формулы 4.18 (про коэффициенты ошибок) Ким.md",
+    "ТАУ/Запасы устойчивости Ким.md",
+    "ТАУ/Переход от ряда Тейлора в преобразованиях Лапласа к оригиналам Воронов.md",
+    "ТАУ/Равенство Парсеваля в ТАУ Ким.md",
+    "ТАУ/Вынужденная составляющая решения.md",
+    "СНАР/Source/GEO_Longitude.png",
+    "СНАР/Source/GEO_Latitude.png",
+    "СНАР/Source/Pasted image 20240520190944.png",
+    "СНАР/Source/Speed_RPM_Bearing.png",
+    "СНАР/Source",
+    "Без названия.canvas",
+    "2024-05-18.md",
+    "Без названия 1.canvas",
+    "ТФКП/Лемма 15.1.md",
+    "ТФКП/Пример 12.5.md",
+    "ТФКП/Определение 16.1.md",
+    "2024-05-09.md",
+    "ТФКП/Source/Pasted image 20240509041048.png",
+    "ТФКП/Source/Pasted image 20240509041041.png",
+    "ТФКП/Лемма 15.3.md",
+    "ТФКП/Следствие 14.1.md",
+    "Физика/Электромашины/Source/Брускин Электрические машины и микромашины.pdf",
+    "ТАУ/Source/Воронов ТАУ Ч1.pdf",
+    "Физика/Электромашины/Source/~syncthing~Брускин Электрические машины и микромашины.pdf.tmp",
+    "ТАУ/Source/~syncthing~Воронов ТАУ Ч1.pdf.tmp"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "accentColor": "#ffdd33",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "baseFontSize": 24,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Images position",
+    "callouts",
+    "callouts dark"
+  ]
+}
