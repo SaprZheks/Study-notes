@@ -7,12 +7,13 @@
 `git remote add origin https://github.com/SaprZheks/Study-notes.git`
 4. Затем установите программу [Obsidian](https://obsidian.md/download) для просмотра заметок.
 5. Щелкните по "Расположение файла" и сохраните путь до Obsidian
-6. Создайте `.bat` файл для запуска Obsidian и автоматического подтягивания всех изменений из этого репозитория со следующим содержимым
-   (Путь `C:\Program Files\Obsidian\Obsidian.exe` заменить расположеием Obsidian.exe с предыдущего шага,
-   путь `C:\Users\Path\to\your\repository\folder` заменить расположеием папки с заметками):
+6. В корне папки с заметками создайте `Obsidian.bat` файл для запуска Obsidian и автоматического подтягивания всех изменений из этого репозитория со следующим содержимым
+   (Путь `C:\Program Files\Obsidian\Obsidian.exe` заменить расположеием Obsidian.exe с предыдущего шага):
 ```
 @echo off
-powershell -Command "cd \"C:\Users\Path\to\your\repository\folder\""
 powershell -Command "git pull origin main"
 powershell -Command "Start-Process \"C:\Program Files\Obsidian\Obsidian.exe\" -WindowStyle Hidden"
 ```
+7. На рабочем столе создайте ярлык, указывающий на этот `Obsidian.bat`, для красоты можете добавить ему иконку из папки с заметками `Obsidian.ico`)
+
+**Готово!**
