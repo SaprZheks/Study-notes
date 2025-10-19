@@ -6,7 +6,7 @@
    `git clone https://github.com/SaprZheks/Study-notes.git`
 
 <div align="center">
-  <img src="Readme%20Images/1.png" alt="1" width="400"/>
+  <img src="readme_guide/1.png" alt="1" width="400"/>
 </div>
 
 ![2](./README%20Images/2.png)
