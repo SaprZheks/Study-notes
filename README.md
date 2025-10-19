@@ -4,13 +4,13 @@
 1. Выберите место, где локально хотите хранить заметки, откройте в этой папке `PowerShell` и выполните
 
    `git clone https://github.com/SaprZheks/Study-notes.git`
-![1](README Images/1.png)
-![2](README Images/2.png)
+[1](README Images/1.png)
+[2](README Images/2.png)
 2. Затем установите программу [Obsidian](https://obsidian.md/download) для просмотра заметок для всех пользователей и нажмите `Запустить` в конце установки.
 3. В корне папки с заметками лежит `Obsidian.bat`. Это файл для запуска Obsidian и автоматического подтягивания всех изменений из этого репозитория. На рабочем столе создайте ярлык, указывающий на `Obsidian.bat`, для красоты можете добавить ему иконку из папки с заметками `Obsidian.ico`.
-![3](README Images/3.png)
-![4](README Images/4.png)
-![5](README Images/5.png)
-![6](README Images/6.png)
+[3](README Images/3.png)
+[4](README Images/4.png)
+[5](README Images/5.png)
+[6](README Images/6.png)
 
 **Готово! Теперь при каждом заходе по этому ярлыку у вас будет доступ к актуальной версии моих заметок!**
