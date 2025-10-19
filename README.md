@@ -9,17 +9,27 @@
   <img src="readme_guide/1.png" alt="1" width="400"/>
 </div>
 
-![2](./README%20Images/2.png)
+<div align="center">
+  <img src="readme_guide/2.png" alt="2" width="400"/>
+</div>
 
 3. Затем установите программу [Obsidian](https://obsidian.md/download) для просмотра заметок для всех пользователей и нажмите `Запустить` в конце установки.
 4. В корне папки с заметками лежит `Obsidian.bat`. Это файл для запуска Obsidian и автоматического подтягивания всех изменений из этого репозитория. На рабочем столе создайте ярлык, указывающий на `Obsidian.bat`, для красоты можете добавить ему иконку из папки с заметками `Obsidian.ico`.
 
-![3](./README%20Images/3.png)
+<div align="center">
+  <img src="readme_guide/3.png" alt="3" width="400"/>
+</div>
 
-![4](./README%20Images/4.png)
+<div align="center">
+  <img src="readme_guide/4.png" alt="4" width="400"/>
+</div>
 
-![5](./README%20Images/5.png)
+<div align="center">
+  <img src="readme_guide/5.png" alt="5" width="400"/>
+</div>
 
-![6](./README%20Images/6.png)
+<div align="center">
+  <img src="readme_guide/6.png" alt="6" width="400"/>
+</div>
 
 **Готово! Теперь при каждом заходе по этому ярлыку у вас будет доступ к актуальной версии моих заметок!**
