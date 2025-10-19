@@ -11,10 +11,15 @@
             "id": "b584a8e8d2cf53c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "README"
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для README"
             }
           },
           {
@@ -158,8 +164,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "99da34bf51c1b881",
+  "active": "b584a8e8d2cf53c0",
   "lastOpenFiles": [
+    "obsidian.bat",
     "Книги/Робототехника/ТАУ/Нетушил ТАУ Ч1.pdf",
     "ТАУ/Первые 3 показателя качества Нетушил.md",
     "ТАУ/Books/Нетушил ТАУ Ч1.pdf",
