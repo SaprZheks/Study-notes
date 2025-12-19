@@ -98,7 +98,7 @@
   "singleMDLeafInSidebar": true,
   "alwaysUseSidebar": true,
   "ignoreExistingMarkdownTabIn": [],
-  "defaultColorPaletteActionIndex": 4,
+  "defaultColorPaletteActionIndex": 1,
   "syncColorPaletteAction": true,
   "syncDefaultColorPaletteAction": false,
   "proxyMDProperty": "PDF",
