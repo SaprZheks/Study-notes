@@ -28,6 +28,7 @@
   <img src="readme_guide/5.png" alt="5" width="400"/>
 </div>
 
+Когда открылся Obsidian, выберите "Русский язык" и нажмите "Открыть папку как хранилище", укажите клонированную папку с заметками:
 <div align="center">
   <img src="readme_guide/6.png" alt="6" width="400"/>
 </div>

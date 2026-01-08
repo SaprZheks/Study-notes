@@ -2,7 +2,7 @@
   "accentColor": "#ffdd33",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "baseFontSize": 24,
+  "baseFontSize": 25,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "callouts",
