@@ -3,7 +3,7 @@
 # Инструкция
 1. Выберите место, где локально хотите хранить заметки, откройте в этой папке `PowerShell` и выполните
 
-   `git clone https://github.com/SaprZheks/Study-notes.git`
+   `git clone --recurse-submodules https://github.com/SaprZheks/Study-notes.git`
 
 <div align="center">
   <img src="readme_guide/1.png" alt="1" width="400"/>
