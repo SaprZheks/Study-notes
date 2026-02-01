@@ -2,11 +2,12 @@
   "accentColor": "#ffdd33",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "baseFontSize": 25,
+  "baseFontSize": 21,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "callouts",
     "callouts dark",
-    "Images position"
+    "Images position",
+    "tables"
   ]
 }
