@@ -11,3 +11,18 @@ img[alt*="right"] {
     margin-bottom: 2px;
     margin-top: 2px;
 }
+
+/* Center для фото */
+.internal-embed.media-embed:has(img[alt*="center"]) {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: fit-content !important; /* Чтобы блок сжался до размеров картинки и центрировался */
+}
+
+/* Center для фото-ссылок */
+.internal-embed[alt*="center"] img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}

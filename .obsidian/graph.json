@@ -6,17 +6,46 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Электричество_и_Магнетизм  ",
+      "color": {
+        "a": 1,
+        "rgb": 1114367
+      }
+    },
+    {
+      "query": "tag:#Механика  ",
+      "color": {
+        "a": 1,
+        "rgb": 16758308
+      }
+    },
+    {
+      "query": "tag:#Термодинамика_и_молекулярная_физика  ",
+      "color": {
+        "a": 1,
+        "rgb": 16714250
+      }
+    },
+    {
+      "query": "tag:#ТФКП  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711867
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.35526045293279,
-  "lineSizeMultiplier": 1.14745847010843,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 2.34078814814815,
+  "lineSizeMultiplier": 0.482417777777778,
   "collapse-forces": false,
-  "centerStrength": 0.101395934878477,
-  "repelStrength": 3.34719334719335,
-  "linkStrength": 0.179846811896946,
-  "linkDistance": 402,
-  "scale": 0.27106933644127656,
+  "centerStrength": 0.0211555555555556,
+  "repelStrength": 18.7034074074074,
+  "linkStrength": 0.0742518518518519,
+  "linkDistance": 500,
+  "scale": 0.09213980001787336,
   "close": true
 }

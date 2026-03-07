@@ -1,0 +1,6 @@
+@media print {
+    body, p, span, li, h1, h2, h3, h4, h5, h6 {
+        /* Заменяет шрифт на стандартный системный, где тире точно отображается корректно */
+        font-family: "Segoe UI", "Roboto", "Inter", Arial, sans-serif, "Times New Roman" !important;
+    }
+}
