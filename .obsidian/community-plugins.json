@@ -1,5 +1,7 @@
 [
   "pdf-plus",
   "explorer-hider",
-  "colored-text"
+  "colored-text",
+  "dynamic-outline",
+  "webpage-html-export"
 ]

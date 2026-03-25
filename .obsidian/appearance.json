@@ -2,13 +2,14 @@
   "accentColor": "#ffdd33",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "callouts",
-    "callouts dark",
     "Images position",
     "tables",
-    "fix dash"
+    "fix dash",
+    "print_pdf",
+    "callouts dark"
   ]
 }
