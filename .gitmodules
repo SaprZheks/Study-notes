@@ -1,3 +1,6 @@
 [submodule "Курсы/Курс школьной физики"]
 	path = Курсы/Курс школьной физики
 	url = https://github.com/SaprZheks/School-Physics-course.git
+[submodule "Кухня"]
+	path = Кухня
+	url = https://github.com/SaprZheks/Recipes

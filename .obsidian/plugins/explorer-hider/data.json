@@ -16,6 +16,12 @@
       "selector": "$",
       "hiddenInNav": true,
       "hiddenInBookmarks": false
+    },
+    {
+      "path": "Курсы/Курс школьной физики/scripts",
+      "type": "folder",
+      "hiddenInNav": true,
+      "hiddenInBookmarks": false
     }
   ],
   "alwaysHideInBookmarks": false,
